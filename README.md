@@ -55,3 +55,13 @@ My leadership principles/values are in three categories:
 * make work-life balance a priority; make room for fun!
 
 ## My working style
+* Meetings
+   * I like to start and end my meetings on time and I expect all attendees to be punctual
+   * I like to provide an agenda for any meeting that I host...and I expect the same for any meeting that I'm invited to
+   * More often than not, I send out recaps (I don't like to call them "minutes) of what we discussed in a meeting...and I expect the same from organizers of meetings that I'm invited to
+* 1-on-1s
+   * I prefer 1-on-1s with my team members to be once in 2 weeks
+   * I want my team members to be in control of the agenda for each 1-on-1
+   * 1-on-1 meetings should not focus on status updates. There are enough meetings to discuss project statuses.
+* I like being involved in technical discussions. I may not be the most technically accomplished person in the room or meeting but I feel like I can always contribute value in one way or another
+* I like to look at metrics and any other numerical data to form opinions and base my decisions on
