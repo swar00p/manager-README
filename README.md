@@ -13,7 +13,7 @@ I am a grizzled veteran in the world of informaton technology and software devel
 
 I would like to believe that I am still fairly technical and hands-on. I can (and do) write code using Python and bash shell scripts for small tasks. I have contributed on more than one occasion to the Firefox for Android (Fennec) project. I have written a couple of Android apps for my own personal use and collaborated with my son to publish an Alexa skill.
 
-Having said that, I get a lot of satisfaction from managing (nay leading) projects and large programs. My understanding of technology and processes as well as my ability to foster healthy relationships with key stakeholders put me in a unique position of being able to build and nurture successful teams. I am a strong believer in the value of early feedback and iterative development. It does not matter to me whether it happens under the umbrella of "Agile/Scrum" or "Waterfall" but involving key stakeholders and refining the implementation of a deliverable is aboslutely key to the success of any product or project.
+Having said that, I get a lot of satisfaction from managing (nay leading) projects and large programs. My understanding of technology and processes as well as my ability to foster healthy relationships with key stakeholders put me in a unique position of being able to build and nurture successful teams. I am a strong believer in the value of early feedback and iterative development. It does not matter to me whether it happens under the umbrella of "Agile/Scrum" or "Waterfall" but involving key stakeholders and refining the implementation of a deliverable is absolutely key to the success of any product or project.
 
 To summarize, a few tidbits about me. I am:
 - tech-savvy and business-aware
